@@ -44,7 +44,7 @@ Now you can read the gas sensor value using the code below.
 #include <Wire.h>
 
 #define ADDR_ADC121             0x55
- 
+
 #define V_REF 3.00
  
 #define REG_ADDR_RESULT         0x00
@@ -229,9 +229,9 @@ In order to find out which result is more close to the actual condition, here we
 ![Measure the real sensor value using DMM.JPG](http://www.seeedstudio.com/wiki/images/6/6a/Measure_the_real_sensor_value_using_DMM.JPG)
 
 ## Resource ##
-- I2C ADC Eagle File
-- ADC121C021 Datasheet
-- Wiki in PDF Format
+- **[I2C ADC Eagle File](http://www.seeedstudio.com/wiki/images/0/05/I2C_ADC_Eagle_File.zip)**
+- **[ADC121C021 Datasheet](http://www.seeedstudio.com/wiki/images/3/34/ADC121C021_Datasheet.pdf)**
+
 
 ##Is this page helpful?
 <iframe style="height: 600px; width: 500px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.surveymonkey.com/r/LDPP93V" frameborder="0"></iframe>
