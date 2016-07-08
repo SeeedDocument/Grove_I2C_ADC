@@ -171,7 +171,7 @@ The ADC I2C has a seven-bit hardware address which is decided by ADR0 and ADR1. 
 
 You can find the relationship of hardware I2C address and the values of ADR0 and ADR1 in the following table.
 
-|Slave Address[A6 - A0] |    ADR0 and ADR1 inputs state|
+|Slave Address[A6 - A0] |    ADR0 and ADR1 inputs state| |
 |:---| :----:| :----:|
 |  | ADR1	|ADR0|
 |1010000(0x50)	|Floating|	Floating|
